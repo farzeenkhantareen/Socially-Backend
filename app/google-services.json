@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774735203491",
+    "project_id": "sociallybackend",
+    "storage_bucket": "sociallybackend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774735203491:android:aea8e841bc5ca284020316",
+        "android_client_info": {
+          "package_name": "com.solocoder.i230721"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHwiv5OM76bmiosVG6RS3Oa-QIWQR1OP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
