@@ -81,7 +81,7 @@
                     android:layout_height="86dp"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    android:src="@drawable/profile" />
+                     />
 
                 <RelativeLayout
                     android:id="@+id/stats_container"
