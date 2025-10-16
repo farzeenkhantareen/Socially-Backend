@@ -16,7 +16,7 @@ class Startup_Screen : AppCompatActivity() {
 
         lifecycleScope.launch {
             delay(3000) // wait for 3 seconds
-            val intent = Intent(this@Startup_Screen, Login_Page::class.java)
+            val intent = Intent(this@Startup_Screen, Login_Username_Password::class.java)
             startActivity(intent)
             finish() // close splash screen so user can’t go back
         }
